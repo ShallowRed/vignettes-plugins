@@ -1,0 +1,14 @@
+{
+  "name": "vignettes",
+  "description": "Plugins published by the Vignettes presentation engine",
+  "owner": {
+    "name": "Lucas Poulain"
+  },
+  "plugins": [
+    {
+      "name": "vignettes-decks",
+      "source": "./plugins/vignettes-decks",
+      "description": "Write a Vignettes deck: outline and slide text for its purpose, format, components, layouts and live Storybook embeds"
+    }
+  ]
+}
